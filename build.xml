@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+	<project name="Hello Apache Ant" default="info">
+	<target name="info">
+	<property name="AntDemo" value="Demo for ANT"/>
+	<echo>Hello this is the execution for Apache Ant!</echo>
+	<echo>Ant file you're looking is there at ${ant.file} and is actually ${AntDemo}</echo>
+	
+	</target>
+	</project>

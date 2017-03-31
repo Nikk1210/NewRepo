@@ -1,0 +1,14 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 02DD-E3C6
+
+ Directory of e:\PracticeSelenium
+
+03/31/2017  06:40 PM    <DIR>          .
+03/31/2017  06:40 PM    <DIR>          ..
+11/20/2016  09:05 PM               322 build.xml
+03/31/2017  05:59 PM               507 File.txt
+03/31/2017  06:37 PM               776 NumberTable.class
+03/31/2017  05:55 PM               259 numbertable.java
+03/31/2017  06:40 PM                 0 timestamp.txt
+               5 File(s)          1,864 bytes
+               2 Dir(s)  83,875,844,096 bytes free

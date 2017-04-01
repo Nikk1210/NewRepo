@@ -7,6 +7,6 @@ product=2*i;
 System.out.println("2x" +i+": "+product);
 }
 System.out.println("Table printed successfully !!");
-System.out.println("This line has been added since last commit...")
+System.out.println("This line has been added since last commit...");
 }
 }
